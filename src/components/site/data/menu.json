@@ -1,0 +1,83 @@
+{
+  "items": [
+    {
+      "id": "breakfast",
+      "title": "Breakfast",
+      "desktop": [
+        "/site/stock/breakfast-1.webp",
+        "/site/stock/breakfast-2.webp",
+        "/site/stock/breakfast-3.webp"
+      ],
+      "mobile": [
+        "/site/stock/breakfast-1.webp",
+        "/site/stock/breakfast-4.webp",
+        "/site/stock/breakfast-5.webp",
+        "/site/stock/breakfast-1.webp",
+        "/site/stock/breakfast-2.webp"
+      ]
+    },
+    {
+      "id": "all-day-dining",
+      "title": "All-day dining",
+      "desktop": [
+        "/site/stock/food-1.webp",
+        "/site/stock/food-2.webp",
+        "/site/stock/food-3.webp",
+        "/site/stock/food-4.webp"
+      ],
+      "mobile": [
+        "/site/stock/food-5.webp",
+        "/site/stock/food-1.webp",
+        "/site/stock/food-2.webp",
+        "/site/stock/food-3.webp",
+        "/site/stock/food-4.webp",
+        "/site/stock/food-5.webp"
+      ]
+    },
+    {
+      "id": "drinks",
+      "title": "Drinks",
+      "desktop": [
+        "/site/stock/drink-1.webp",
+        "/site/stock/drink-2.webp",
+        "/site/stock/drink-3.webp",
+        "/site/stock/drink-4.webp",
+        "/site/stock/drink-5.webp",
+        "/site/stock/drink-1.webp",
+        "/site/stock/drink-2.webp",
+        "/site/stock/drink-3.webp",
+        "/site/stock/drink-4.webp",
+        "/site/stock/drink-5.webp",
+        "/site/stock/drink-1.webp",
+        "/site/stock/drink-2.webp"
+      ],
+      "mobile": [
+        "/site/stock/drink-3.webp",
+        "/site/stock/drink-4.webp",
+        "/site/stock/drink-5.webp",
+        "/site/stock/drink-1.webp",
+        "/site/stock/drink-2.webp",
+        "/site/stock/drink-3.webp",
+        "/site/stock/drink-4.webp",
+        "/site/stock/drink-5.webp",
+        "/site/stock/drink-1.webp",
+        "/site/stock/drink-2.webp",
+        "/site/stock/drink-3.webp",
+        "/site/stock/drink-3.webp",
+        "/site/stock/drink-4.webp"
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "title": "Vegan"
+    },
+    {
+      "title": "Vegetarian on request"
+    }
+  ],
+  "notes": [
+    "Please tell your server about any allergies or dietary needs.",
+    "Sample menu shown with stock photography. Prices in thousands of rupiah, plus service charge and tax."
+  ]
+}

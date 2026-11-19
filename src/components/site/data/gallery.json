@@ -1,0 +1,188 @@
+{
+  "bungalows": [
+    {
+      "src": "/site/stock/villa-1.webp",
+      "w": 1400,
+      "h": 933,
+      "category": "bungalows"
+    },
+    {
+      "src": "/site/stock/villa-2.webp",
+      "w": 1400,
+      "h": 2100,
+      "category": "bungalows"
+    },
+    {
+      "src": "/site/stock/room-1.webp",
+      "w": 1400,
+      "h": 933,
+      "category": "bungalows"
+    },
+    {
+      "src": "/site/stock/villa-3.webp",
+      "w": 1400,
+      "h": 2100,
+      "category": "bungalows"
+    },
+    {
+      "src": "/site/stock/bath-1.webp",
+      "w": 1400,
+      "h": 933,
+      "category": "bungalows"
+    },
+    {
+      "src": "/site/stock/villa-5.webp",
+      "w": 1400,
+      "h": 933,
+      "category": "bungalows"
+    },
+    {
+      "src": "/site/stock/room-4.webp",
+      "w": 1400,
+      "h": 933,
+      "category": "bungalows"
+    },
+    {
+      "src": "/site/stock/garden-1.webp",
+      "w": 1400,
+      "h": 2100,
+      "category": "bungalows"
+    },
+    {
+      "src": "/site/stock/villa-7.webp",
+      "w": 1400,
+      "h": 933,
+      "category": "bungalows"
+    }
+  ],
+  "dining": [
+    {
+      "src": "/site/stock/breakfast-1.webp",
+      "w": 1400,
+      "h": 933,
+      "category": "dining"
+    },
+    {
+      "src": "/site/stock/food-1.webp",
+      "w": 1400,
+      "h": 933,
+      "category": "dining"
+    },
+    {
+      "src": "/site/stock/drink-1.webp",
+      "w": 1400,
+      "h": 2488,
+      "category": "dining"
+    },
+    {
+      "src": "/site/stock/dinner-1.webp",
+      "w": 1400,
+      "h": 2100,
+      "category": "dining"
+    },
+    {
+      "src": "/site/stock/tea-1.webp",
+      "w": 1400,
+      "h": 1000,
+      "category": "dining"
+    },
+    {
+      "src": "/site/stock/breakfast-3.webp",
+      "w": 1400,
+      "h": 2100,
+      "category": "dining"
+    },
+    {
+      "src": "/site/stock/food-3.webp",
+      "w": 1400,
+      "h": 933,
+      "category": "dining"
+    },
+    {
+      "src": "/site/stock/dinner-3.webp",
+      "w": 1400,
+      "h": 933,
+      "category": "dining"
+    },
+    {
+      "src": "/site/stock/drink-3.webp",
+      "w": 1400,
+      "h": 2100,
+      "category": "dining"
+    }
+  ],
+  "bali": [
+    {
+      "src": "/site/stock/beach-3.webp",
+      "w": 1400,
+      "h": 933,
+      "category": "bali"
+    },
+    {
+      "src": "/site/stock/aerial-1.webp",
+      "w": 1400,
+      "h": 1867,
+      "category": "bali"
+    },
+    {
+      "src": "/site/stock/temple-1.webp",
+      "w": 1400,
+      "h": 933,
+      "category": "bali"
+    },
+    {
+      "src": "/site/stock/dance-2.webp",
+      "w": 1400,
+      "h": 934,
+      "category": "bali"
+    },
+    {
+      "src": "/site/stock/penjor-5.webp",
+      "w": 1400,
+      "h": 2100,
+      "category": "bali"
+    },
+    {
+      "src": "/site/stock/beach-2.webp",
+      "w": 1400,
+      "h": 927,
+      "category": "bali"
+    },
+    {
+      "src": "/site/stock/ceremony-1.webp",
+      "w": 1400,
+      "h": 2100,
+      "category": "bali"
+    },
+    {
+      "src": "/site/stock/garden-5.webp",
+      "w": 1400,
+      "h": 1400,
+      "category": "bali"
+    },
+    {
+      "src": "/site/stock/temple-4.webp",
+      "w": 1400,
+      "h": 933,
+      "category": "bali"
+    },
+    {
+      "src": "/site/stock/aerial-3.webp",
+      "w": 1400,
+      "h": 1050,
+      "category": "bali"
+    },
+    {
+      "src": "/site/stock/dance-4.webp",
+      "w": 1400,
+      "h": 2100,
+      "category": "bali"
+    },
+    {
+      "src": "/site/stock/offering-1.webp",
+      "w": 1400,
+      "h": 2101,
+      "category": "bali"
+    }
+  ]
+}

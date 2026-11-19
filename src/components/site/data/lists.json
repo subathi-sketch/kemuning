@@ -1,0 +1,244 @@
+{
+  "cultures": [
+    {
+      "href": "/culture/galungan",
+      "image": "/site/stock/penjor-1.webp",
+      "title": "Galungan",
+      "description": [
+        "A festival of victory over adversity, held every 210 days on the Balinese pawukon calendar."
+      ],
+      "cta": "Discover more",
+      "category": "culture"
+    },
+    {
+      "href": "/culture/kuningan-and-mekotek",
+      "image": "/site/stock/ceremony-2.webp",
+      "title": "Kuningan & Mekotek",
+      "description": [
+        "The day of reflection ten days after Galungan, when the ancestors return to the heavens."
+      ],
+      "cta": "Discover more",
+      "category": "culture"
+    },
+    {
+      "href": "/culture/nyepi",
+      "image": "/site/stock/ogoh-1.webp",
+      "title": "Nyepi",
+      "description": [
+        "Bali's Day of Silence, when the island stops, the lights go out and the sky fills with stars."
+      ],
+      "cta": "Discover more",
+      "category": "culture"
+    },
+    {
+      "href": "/culture/melasti",
+      "image": "/site/stock/beach-2.webp",
+      "title": "Melasti",
+      "description": [
+        "A cleansing procession to the sea, a few days before Nyepi."
+      ],
+      "cta": "Discover more",
+      "category": "culture"
+    },
+    {
+      "href": "/culture/ogoh-ogoh",
+      "image": "/site/stock/ogoh-4.webp",
+      "title": "Ogoh-ogoh",
+      "description": [
+        "Giant demon figures paraded through the streets on the eve of Nyepi."
+      ],
+      "cta": "Discover more",
+      "category": "culture"
+    },
+    {
+      "href": "/culture/piodalan",
+      "image": "/site/stock/temple-3.webp",
+      "title": "Piodalan",
+      "description": [
+        "The birthday of a temple, celebrated with offerings, music and dance."
+      ],
+      "cta": "Discover more",
+      "category": "culture"
+    },
+    {
+      "href": "/culture/bali-art-festival",
+      "image": "/site/stock/dance-1.webp",
+      "title": "Bali Art Festival",
+      "description": [
+        "Bali's month-long celebration of dance, music and craft, held each summer in Denpasar."
+      ],
+      "cta": "Discover more",
+      "category": "culture"
+    },
+    {
+      "href": "/culture/perang-pandan-and-ayunan-jantra",
+      "image": "/site/stock/ceremony-3.webp",
+      "title": "Perang Pandan & Ayunan Jantra",
+      "description": [
+        "A ritual duel with thorny leaves in an ancient village in eastern Bali."
+      ],
+      "cta": "Discover more",
+      "category": "culture"
+    },
+    {
+      "href": "/culture/purnama-and-tilem",
+      "image": "/site/stock/temple-4.webp",
+      "title": "Purnama & Tilem",
+      "description": [
+        "The full moon and new moon, the most sacred days of the Balinese month."
+      ],
+      "cta": "Discover more",
+      "category": "culture"
+    },
+    {
+      "href": "/culture/offerings",
+      "image": "/site/stock/offering-1.webp",
+      "title": "Offerings",
+      "description": [
+        "Small daily gifts of flowers, rice and incense, set out in homes, shops and temples."
+      ],
+      "cta": "Discover more",
+      "category": "culture"
+    }
+  ],
+  "offers": [
+    {
+      "href": null,
+      "image": "/site/stock/wedding-1.webp",
+      "title": "Beach Wedding & Honeymoon",
+      "description": [
+        "A small ceremony on the sand, a candlelit dinner and two nights to enjoy it."
+      ],
+      "cta": "More details",
+      "category": "offer"
+    },
+    {
+      "href": null,
+      "image": "/site/stock/villa-4.webp",
+      "title": "Slow Stay",
+      "description": [
+        "Three unhurried days with breakfast, transfers and nothing you have to do."
+      ],
+      "cta": "More details",
+      "category": "offer"
+    },
+    {
+      "href": null,
+      "image": "/site/stock/food-3.webp",
+      "title": "Stay & Dine",
+      "description": [
+        "A stay built around a tasting table for two at Kemuning Kitchen."
+      ],
+      "cta": "More details",
+      "category": "offer"
+    },
+    {
+      "href": "https://wa.me/6280000000000",
+      "image": "/site/stock/cooking-1.webp",
+      "title": "Cooking Class",
+      "description": [
+        "Shop at the morning market, then cook a Balinese lunch with our chefs."
+      ],
+      "cta": "More details",
+      "category": "offer"
+    },
+    {
+      "href": "https://wa.me/6280000000000",
+      "image": "/site/stock/craft-2.webp",
+      "title": "Craft Corner",
+      "description": [
+        "A small boutique of homewares, textiles and books from Bali makers."
+      ],
+      "cta": "More details",
+      "category": "offer"
+    }
+  ],
+  "menuList": [
+    {
+      "href": "/restaurant-menu#breakfast",
+      "image": "/site/stock/breakfast-3.webp",
+      "title": "Breakfast",
+      "description": [
+        "From warm bread and tropical fruit to coconut-sugar pancakes and Balinese rice porridge, served until late morning on the terrace."
+      ],
+      "cta": "View menu",
+      "category": ""
+    },
+    {
+      "href": "/restaurant-menu#all-day-dining",
+      "image": "/site/stock/food-4.webp",
+      "title": "All-day dining",
+      "description": [
+        "Home-style Indonesian cooking and a few international favourites, made with produce from nearby farms and the early fish market."
+      ],
+      "cta": "View menu",
+      "category": ""
+    },
+    {
+      "href": "/restaurant-menu#drinks",
+      "image": "/site/stock/drink-3.webp",
+      "title": "Drinks & wine",
+      "description": [
+        "Fresh juices, cold-pressed coconut water, local coffee, classic cocktails and a short, well-chosen wine list for the sunset hour."
+      ],
+      "cta": "View menu",
+      "category": ""
+    }
+  ],
+  "diningOffers": [
+    {
+      "image": "/site/stock/dinner-4.webp",
+      "title": "Sunset Supper",
+      "paragraphs": [
+        "Every evening the tables move to the sand and the lanterns come out.",
+        "Choose a three-course set menu of grilled fish, slow-cooked curries and a tropical dessert."
+      ],
+      "cta": "Reserve now",
+      "href": "mailto:reservations@kemuning-sanur.example?subject=Table%20reservation"
+    },
+    {
+      "image": "/site/stock/tea-1.webp",
+      "title": "Afternoon Tea",
+      "paragraphs": [
+        "A quiet pot of tea with sweet and savoury Indonesian snacks on a three-tier stand, served in the garden pavilion.",
+        "Please reserve one day ahead."
+      ],
+      "cta": "Reserve now",
+      "href": "mailto:reservations@kemuning-sanur.example?subject=Table%20reservation"
+    },
+    {
+      "image": "/site/stock/food-2.webp",
+      "title": "Indonesian Tasting Table",
+      "paragraphs": [
+        "Many small dishes arrive together around a bowl of rice: grilled fish, braised beef, eggs, vegetables and relishes, each with its own flavour and texture.",
+        "Made for sharing between two."
+      ],
+      "cta": "Reserve now",
+      "href": "mailto:reservations@kemuning-sanur.example?subject=Table%20reservation"
+    },
+    {
+      "image": "/site/stock/dinner-1.webp",
+      "title": "Beach Table for Groups",
+      "paragraphs": [
+        "For ten guests or more.",
+        "Reserve a long table on the sand for birthdays, reunions and family dinners, with a shared menu of home-cooked dishes."
+      ],
+      "cta": "Reserve now",
+      "href": "mailto:reservations@kemuning-sanur.example?subject=Table%20reservation"
+    },
+    {
+      "image": "/site/stock/dinner-5.webp",
+      "title": "Candlelit Beach Dinner",
+      "paragraphs": [
+        "A private table at the water's edge, set with tropical flowers and candles.",
+        "Four courses are served with a bottle of house wine."
+      ],
+      "cta": "Reserve now",
+      "href": "mailto:reservations@kemuning-sanur.example?subject=Table%20reservation"
+    }
+  ],
+  "diningIntro": {
+    "title": "Kemuning Kitchen",
+    "description": "Eat in the open-sided pavilion, or at a table in the sand beneath the trees. Our kitchen cooks Indonesian home cooking and a few international favourites with produce from nearby farms and the early fish market. Open daily from 7 am to 10 pm."
+  }
+}

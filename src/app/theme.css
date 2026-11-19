@@ -1,0 +1,80 @@
+/*
+ * Business theme tokens.
+ *
+ * Derived from the Aesop DESIGN.md in the GradientDeck UI library
+ * (docs/design-references/gradientdeck/aesop-design-extended.md): a warm cream canvas, one strong
+ * charcoal ink, a near-black field for dark surfaces, hairlines for structure and a single small
+ * amber accent. Every component reads these variables, so the whole palette lives here.
+ *
+ * Contrast (WCAG, computed): ink on canvas 12.5:1, canvas on deep 15.1:1, accent on canvas 5.4:1,
+ * accent on oat 5.0:1, muted on canvas 5.7:1. All pass AA for body text.
+ *
+ * The previous heritage palette is kept as the commented block at the bottom, for reference.
+ */
+:root {
+  --ts-canvas: #fffef2; /* page paper + all reversed text */
+  --ts-oat: #f6f5e8; /* tinted bands, one step below the canvas */
+  --ts-ink: #333333; /* body ink, header bar, primary button fill, dark sections */
+  --ts-deep: #252525; /* footer-black: deepest surfaces and button hover */
+  --ts-muted: #666666; /* secondary text */
+  --ts-hairline: #d6d5cc; /* rules, borders, selection wash */
+  --ts-accent: #945c26; /* amber glass: small labels and active states only */
+
+  /* shadcn/ui tokens follow the same palette */
+  --background: var(--ts-canvas);
+  --foreground: var(--ts-ink);
+  --card: var(--ts-canvas);
+  --card-foreground: var(--ts-ink);
+  --popover: var(--ts-canvas);
+  --popover-foreground: var(--ts-ink);
+  --primary: var(--ts-ink);
+  --primary-foreground: var(--ts-canvas);
+  --secondary: var(--ts-oat);
+  --secondary-foreground: var(--ts-ink);
+  --muted: var(--ts-oat);
+  --muted-foreground: var(--ts-muted);
+  --accent: var(--ts-oat);
+  --accent-foreground: var(--ts-ink);
+  --border: var(--ts-hairline);
+  --input: var(--ts-hairline);
+  --ring: var(--ts-accent);
+  --radius: 0.75rem; /* soft corners: rounded-2xl ≈ 1.35rem, rounded-3xl ≈ 1.65rem */
+}
+
+/* Heritage palette (original clone), for reference:
+ *   canvas #f1ecde, ink #544f45, taupe #93836c, crimson #a62a23, hairline #d1ccbe, muted #938e82
+ */
+
+/* ---- Extended design tokens ---------------------------------------------------------------- */
+:root {
+  /* A deep sea green used sparingly for "destination" surfaces (next-page bands, carousels),
+     so the page has more rhythm than charcoal alone. Cream on sea is 11.3:1. */
+  --ts-sea: #243d3b;
+  --ts-sea-deep: #1b2f2d;
+
+  /* Motion */
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --dur-fast: 0.25s;
+  --dur-base: 0.6s;
+  --dur-slow: 1.1s;
+
+  /* Elevation (used only where a surface truly floats: lightbox controls, popovers) */
+  --shadow-soft: 0 1px 2px rgb(37 37 37 / 0.06), 0 14px 34px -14px rgb(37 37 37 / 0.22);
+}
+
+::selection {
+  background: var(--ts-hairline);
+  color: var(--ts-ink);
+}
+
+:focus-visible {
+  outline: 2px solid var(--ts-accent);
+  outline-offset: 3px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+}

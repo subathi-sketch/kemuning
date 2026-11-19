@@ -1,0 +1,120 @@
+/*
+ * UI polish layer: scroll reveals, hover motion and the shared button, loader and carousel effects.
+ */
+
+
+/* ---- Global reveal (home page panels) ------------------------------------------------------- */
+[data-reveal] {
+  opacity: 0;
+  transform: translateY(28px);
+  transition: opacity 1.1s var(--ease-out), transform 1.1s var(--ease-out);
+  transition-delay: var(--d, 0ms);
+}
+[data-reveal="fade"] {
+  transform: none;
+}
+[data-reveal="rise"] {
+  transform: translateY(56px);
+}
+[data-reveal].is-in {
+  opacity: 1;
+  transform: none;
+}
+/* automatic stagger for siblings */
+[data-reveal]:nth-child(2) { --d: 110ms; }
+[data-reveal]:nth-child(3) { --d: 220ms; }
+[data-reveal]:nth-child(4) { --d: 330ms; }
+[data-reveal]:nth-child(5) { --d: 440ms; }
+
+@media (prefers-reduced-motion: reduce) {
+  [data-reveal] {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
+
+/* Image frames in the home panels: soft zoom on hover */
+.panel-frame img {
+  transition: transform 1.6s var(--ease-out);
+}
+.panel-frame:hover img {
+  transform: scale(1.04);
+}
+
+/* Rotating light: a white highlight that circles the edge of any button carrying .glow-rim */
+@property --glow-angle {
+  syntax: "<angle>";
+  initial-value: 0deg;
+  inherits: false;
+}
+@keyframes glow-angle {
+  to {
+    --glow-angle: 360deg;
+  }
+}
+@keyframes loader-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+.glow-rim {
+  position: relative;
+}
+.glow-rim::before {
+  content: "";
+  position: absolute;
+  inset: -1.5px;
+  border-radius: inherit;
+  padding: 1.5px;
+  background: conic-gradient(from var(--glow-angle), transparent 0 58%, rgb(255 255 255 / 0.25) 80%, #fff 100%);
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+  mask: linear-gradient(#000 0 0) content-box exclude, linear-gradient(#000 0 0);
+  animation: glow-angle 3.2s linear infinite;
+  pointer-events: none;
+}
+.glow-rim:hover::before {
+  animation-duration: 1.4s;
+}
+@media (prefers-reduced-motion: reduce) {
+  .glow-rim::before {
+    animation: none;
+  }
+}
+
+/* "A day at Kemuning": the active card's progress line fills, then the next moment opens */
+@keyframes day-progress {
+  from {
+    transform: scaleX(0);
+  }
+  to {
+    transform: scaleX(1);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .day-progress {
+    animation: none !important;
+    transform: scaleX(1);
+  }
+}
+
+@keyframes scroll-cue {
+  0% {
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(360%);
+  }
+}
+
+/* "Download menu" prints only the menu section currently in view */
+@media print {
+  body[data-print-menu] header,
+  body[data-print-menu] footer,
+  body[data-print-menu] [data-print-hide],
+  body[data-print-menu] [data-print-skip],
+  body[data-print-menu] [role="status"] {
+    display: none !important;
+  }
+}

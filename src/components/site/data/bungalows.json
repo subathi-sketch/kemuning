@@ -1,0 +1,365 @@
+[
+  {
+    "slug": "garden-bungalow",
+    "title": "Garden Bungalow",
+    "heroImage": "/site/stock/villa-2.webp",
+    "summary": "Our classic bungalow: a thatched roof, a deep veranda and a courtyard garden of its own, ten minutes' stroll from the sea.",
+    "details": [
+      {
+        "label": "2 Adults"
+      },
+      {
+        "label": "46 m²"
+      }
+    ],
+    "extraInfo": "",
+    "description": [
+      "Eleven Garden Bungalows sit in quiet clusters along stepping-stone paths. Each has a high thatched ceiling, a king-size bed under a soft mosquito net and a writing desk that looks onto the courtyard.",
+      "The bathroom opens to a private outdoor shower and a stone bathtub shaded by frangipani. Floors are cool hand-pressed cement tiles, and the veranda daybed is the best seat in the house for an afternoon rain."
+    ],
+    "showcase": {
+      "title": "",
+      "topImage": "/site/stock/pool-1.webp",
+      "leftImage": "/site/stock/room-1.webp",
+      "bottomImage": "/site/stock/garden-1.webp",
+      "subtitle": "Every bungalow is a little different.",
+      "text": "The photographs show the style of each bungalow type. The one you book may differ slightly in garden planting or furniture."
+    },
+    "facilities": [
+      {
+        "title": "Included in your stay",
+        "items": [
+          "Breakfast à la carte at Kemuning Kitchen",
+          "Two bottles of drinking water in the bungalow each day",
+          "Cold towel and welcome drink on arrival",
+          "Beach towels and bicycles to borrow"
+        ]
+      },
+      {
+        "title": "In the bungalow",
+        "items": [
+          "King bed with mosquito net",
+          "Air-conditioning and ceiling fan",
+          "Outdoor shower and stone bathtub",
+          "Hairdryer",
+          "Mini bar",
+          "In-room safe",
+          "Tea and coffee station",
+          "Wi-Fi"
+        ]
+      }
+    ],
+    "bookingUrl": "mailto:reservations@kemuning-sanur.example?subject=Bungalow%20enquiry",
+    "bookingLabel": "Enquire now",
+    "gallery": [
+      "/site/stock/interior-1.webp",
+      "/site/stock/room-2.webp",
+      "/site/stock/garden-2.webp",
+      "/site/stock/bath-1.webp",
+      "/site/stock/villa-2.webp",
+      "/site/stock/pool-2.webp"
+    ]
+  },
+  {
+    "slug": "loft-bungalow",
+    "title": "Loft Bungalow",
+    "heroImage": "/site/stock/villa-4.webp",
+    "summary": "A two-level bungalow with a sleeping loft under the thatch and a wide terrace below.",
+    "details": [
+      {
+        "label": "2 Adults"
+      },
+      {
+        "label": "52 m²"
+      }
+    ],
+    "extraInfo": "The loft is reached by a steep wooden stair, so it is not suitable for young children.",
+    "description": [
+      "Downstairs you will find a sitting room with a daybed and a shaded terrace. Upstairs, the bed sits under the roof beams with a view across the garden canopy.",
+      "Polished timber floors and louvred shutters keep the loft cool and breezy, and the bathroom has a rain shower and a deep tub."
+    ],
+    "showcase": {
+      "title": "",
+      "topImage": "/site/stock/pool-3.webp",
+      "leftImage": "/site/stock/room-3.webp",
+      "bottomImage": "/site/stock/garden-3.webp",
+      "subtitle": "Every bungalow is a little different.",
+      "text": "The photographs show the style of each bungalow type. The one you book may differ slightly in garden planting or furniture."
+    },
+    "facilities": [
+      {
+        "title": "Included in your stay",
+        "items": [
+          "Breakfast à la carte at Kemuning Kitchen",
+          "Two bottles of drinking water in the bungalow each day",
+          "Cold towel and welcome drink on arrival",
+          "Beach towels and bicycles to borrow"
+        ]
+      },
+      {
+        "title": "In the bungalow",
+        "items": [
+          "King bed in the loft",
+          "Daybed in the sitting room",
+          "Air-conditioning and ceiling fan",
+          "Rain shower and bathtub",
+          "Mini bar",
+          "In-room safe",
+          "Tea and coffee station",
+          "Wi-Fi"
+        ]
+      }
+    ],
+    "bookingUrl": "mailto:reservations@kemuning-sanur.example?subject=Bungalow%20enquiry",
+    "bookingLabel": "Enquire now",
+    "gallery": [
+      "/site/stock/villa-4.webp",
+      "/site/stock/interior-2.webp",
+      "/site/stock/room-4.webp",
+      "/site/stock/garden-4.webp",
+      "/site/stock/bath-2.webp"
+    ]
+  },
+  {
+    "slug": "beach-bungalow",
+    "title": "Beach Bungalow",
+    "heroImage": "/site/stock/garden-5.webp",
+    "summary": "A compact bungalow in the seaside garden, with a loft bed that catches the sunrise.",
+    "details": [
+      {
+        "label": "2 Adults"
+      },
+      {
+        "label": "58 m²"
+      }
+    ],
+    "extraInfo": "The sleeping loft is reached by a steep wooden stair, so it is not suitable for young children.",
+    "description": [
+      "Set closest to the water, the Beach Bungalow is for guests who want to hear the waves at night. A ground-floor sitting area opens straight onto the lawn.",
+      "Climb to the loft and open the shutters at dawn: the sea is a pale line of silver beyond the palms."
+    ],
+    "showcase": {
+      "title": "",
+      "topImage": "/site/stock/bath-3.webp",
+      "leftImage": "/site/stock/villa-3.webp",
+      "bottomImage": "/site/stock/pool-1.webp",
+      "subtitle": "Every bungalow is a little different.",
+      "text": "The photographs show the style of each bungalow type. The one you book may differ slightly in garden planting or furniture."
+    },
+    "facilities": [
+      {
+        "title": "Included in your stay",
+        "items": [
+          "Breakfast à la carte at Kemuning Kitchen",
+          "Two bottles of drinking water in the bungalow each day",
+          "Cold towel and welcome drink on arrival",
+          "Beach towels and bicycles to borrow"
+        ]
+      },
+      {
+        "title": "In the bungalow",
+        "items": [
+          "Queen bed in the loft",
+          "Air-conditioning and ceiling fan",
+          "Outdoor shower",
+          "Mini bar",
+          "In-room safe",
+          "Tea and coffee station",
+          "Wi-Fi"
+        ]
+      }
+    ],
+    "bookingUrl": "mailto:reservations@kemuning-sanur.example?subject=Bungalow%20enquiry",
+    "bookingLabel": "Enquire now",
+    "gallery": [
+      "/site/stock/room-5.webp",
+      "/site/stock/garden-6.webp",
+      "/site/stock/interior-3.webp",
+      "/site/stock/room-6.webp",
+      "/site/stock/garden-7.webp"
+    ]
+  },
+  {
+    "slug": "courtyard-suite",
+    "title": "Courtyard Suite",
+    "heroImage": "/site/stock/villa-8.webp",
+    "summary": "Our most spacious room: a canopied bed, a working desk and a private plunge courtyard.",
+    "details": [
+      {
+        "label": "2 Adults"
+      },
+      {
+        "label": "96 m²"
+      }
+    ],
+    "extraInfo": "",
+    "description": [
+      "The Courtyard Suite wraps around a walled garden with its own tiled plunge pool. The bedroom has a canopied bed, a long work table and a daybed for reading.",
+      "Large teak doors fold back to join the living space and the courtyard, so the room feels like an open pavilion."
+    ],
+    "showcase": {
+      "title": "",
+      "topImage": "/site/stock/interior-1.webp",
+      "leftImage": "/site/stock/room-1.webp",
+      "bottomImage": "/site/stock/garden-1.webp",
+      "subtitle": "Every bungalow is a little different.",
+      "text": "The photographs show the style of each bungalow type. The one you book may differ slightly in garden planting or furniture."
+    },
+    "facilities": [
+      {
+        "title": "Included in your stay",
+        "items": [
+          "Breakfast à la carte at Kemuning Kitchen",
+          "Two bottles of drinking water in the bungalow each day",
+          "Cold towel and welcome drink on arrival",
+          "Beach towels and bicycles to borrow",
+          "Evening turn-down service"
+        ]
+      },
+      {
+        "title": "In the suite",
+        "items": [
+          "Canopied king bed",
+          "Private plunge pool",
+          "Separate living area and desk",
+          "Air-conditioning and ceiling fans",
+          "Outdoor shower and bathtub",
+          "Mini bar",
+          "In-room safe",
+          "Wi-Fi"
+        ]
+      }
+    ],
+    "bookingUrl": "mailto:reservations@kemuning-sanur.example?subject=Bungalow%20enquiry",
+    "bookingLabel": "Enquire now",
+    "gallery": [
+      "/site/stock/bath-1.webp",
+      "/site/stock/villa-4.webp",
+      "/site/stock/pool-2.webp",
+      "/site/stock/room-2.webp",
+      "/site/stock/garden-2.webp",
+      "/site/stock/interior-2.webp"
+    ]
+  },
+  {
+    "slug": "pool-villa",
+    "title": "Pool Villa",
+    "heroImage": "/site/stock/villa-2.webp",
+    "summary": "A private villa with its own pool, a broad veranda and a glimpse of the sea through the palms.",
+    "details": [
+      {
+        "label": "2 Adults"
+      },
+      {
+        "label": "120 m²"
+      }
+    ],
+    "extraInfo": "",
+    "description": [
+      "Tucked behind a high garden wall, the Pool Villa is built around a six-metre pool and a shaded pavilion. The bedroom opens on both sides to catch the sea breeze.",
+      "From the veranda you can see a slice of ocean over the treetops, and breakfast can be served poolside on request."
+    ],
+    "showcase": {
+      "title": "",
+      "topImage": "/site/stock/pool-3.webp",
+      "leftImage": "/site/stock/room-3.webp",
+      "bottomImage": "/site/stock/garden-3.webp",
+      "subtitle": "Every bungalow is a little different.",
+      "text": "The photographs show the style of each bungalow type. The one you book may differ slightly in garden planting or furniture."
+    },
+    "facilities": [
+      {
+        "title": "Included in your stay",
+        "items": [
+          "Breakfast à la carte at Kemuning Kitchen",
+          "Two bottles of drinking water in the bungalow each day",
+          "Cold towel and welcome drink on arrival",
+          "Beach towels and bicycles to borrow",
+          "Poolside breakfast on request"
+        ]
+      },
+      {
+        "title": "In the villa",
+        "items": [
+          "King bed",
+          "Private pool and pavilion",
+          "Air-conditioning and ceiling fans",
+          "Outdoor shower and bathtub",
+          "Mini bar",
+          "In-room safe",
+          "Tea and coffee station",
+          "Wi-Fi"
+        ]
+      }
+    ],
+    "bookingUrl": "mailto:reservations@kemuning-sanur.example?subject=Bungalow%20enquiry",
+    "bookingLabel": "Enquire now",
+    "gallery": [
+      "/site/stock/interior-3.webp",
+      "/site/stock/room-4.webp",
+      "/site/stock/garden-4.webp",
+      "/site/stock/bath-2.webp",
+      "/site/stock/villa-5.webp",
+      "/site/stock/pool-1.webp"
+    ]
+  },
+  {
+    "slug": "family-house",
+    "title": "Family House",
+    "heroImage": "/site/stock/villa-4.webp",
+    "summary": "Two bedrooms around a shared courtyard, made for families who want space and quiet.",
+    "details": [
+      {
+        "label": "4 Adults"
+      },
+      {
+        "label": "135 m²"
+      }
+    ],
+    "extraInfo": "",
+    "description": [
+      "The Family House has two bedrooms, one with a queen bed and one with twin beds, linked by a covered walkway and a lawn where children can play.",
+      "Each bedroom has its own bathroom. A small kitchenette makes early snacks and late bottles easy, and our team can arrange cots, high chairs and babysitting."
+    ],
+    "showcase": {
+      "title": "",
+      "topImage": "/site/stock/pool-2.webp",
+      "leftImage": "/site/stock/room-5.webp",
+      "bottomImage": "/site/stock/garden-5.webp",
+      "subtitle": "Every bungalow is a little different.",
+      "text": "The photographs show the style of each bungalow type. The one you book may differ slightly in garden planting or furniture."
+    },
+    "facilities": [
+      {
+        "title": "Included in your stay",
+        "items": [
+          "Breakfast à la carte at Kemuning Kitchen",
+          "Two bottles of drinking water in the bungalow each day",
+          "Cold towel and welcome drink on arrival",
+          "Beach towels and bicycles to borrow",
+          "Cot or extra bed on request"
+        ]
+      },
+      {
+        "title": "In the house",
+        "items": [
+          "Queen bed and twin beds",
+          "Two bathrooms",
+          "Kitchenette",
+          "Air-conditioning and ceiling fans",
+          "Shaded lawn and courtyard",
+          "In-room safe",
+          "Wi-Fi"
+        ]
+      }
+    ],
+    "bookingUrl": "mailto:reservations@kemuning-sanur.example?subject=Bungalow%20enquiry",
+    "bookingLabel": "Enquire now",
+    "gallery": [
+      "/site/stock/interior-1.webp",
+      "/site/stock/room-6.webp",
+      "/site/stock/garden-6.webp",
+      "/site/stock/bath-3.webp"
+    ]
+  }
+]

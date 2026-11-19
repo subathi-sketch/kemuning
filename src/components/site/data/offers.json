@@ -1,0 +1,109 @@
+[
+  {
+    "slug": "beach-wedding",
+    "title": "Beach Wedding & Honeymoon",
+    "heroImage": "/site/stock/wedding-1.webp",
+    "duration": "Two nights in a Garden Bungalow for the couple",
+    "priceLabel": "From",
+    "price": "IDR 38,000,000 for 20 guests",
+    "note": "*Sample pricing for the current season",
+    "heading": "Say your vows with the tide behind you: a small beach ceremony, arranged around your day.",
+    "description": [],
+    "smallImage": "/site/stock/wedding-2.webp",
+    "bigImage": "/site/stock/dinner-2.webp",
+    "inclusions": [
+      {
+        "title": "Package inclusions",
+        "items": [
+          "Four hours' exclusive use of the beach lawn and garden",
+          "Set-menu dinner for 20 guests",
+          "Live bamboo rindik music during the ceremony",
+          "Floral arch, aisle petals and table flowers",
+          "Bridal bouquet and two buttonholes",
+          "Sparkling wine toast for all guests",
+          "Two nights in a Garden Bungalow, with breakfast",
+          "A candlelit dinner for the couple",
+          "Service charge and taxes included"
+        ]
+      }
+    ],
+    "bookingUrl": "mailto:reservations@kemuning-sanur.example?subject=Beach%20wedding%20enquiry",
+    "bookingLabel": "Enquire now"
+  },
+  {
+    "slug": "slow-stay",
+    "title": "Slow Stay",
+    "heroImage": "/site/stock/villa-4.webp",
+    "duration": "3 days / 2 nights in a Garden Bungalow",
+    "priceLabel": "From",
+    "price": "IDR 5,950,000",
+    "note": "",
+    "heading": "Three unhurried days by the sea, with breakfast, transfers and nothing you have to do.",
+    "description": [],
+    "smallImage": "/site/stock/garden-5.webp",
+    "bigImage": "/site/stock/pool-2.webp",
+    "inclusions": [
+      {
+        "title": "Package inclusions",
+        "items": [
+          "Two nights in a Garden Bungalow",
+          "Return airport transfer",
+          "Cold towel and welcome drink on arrival",
+          "Two bottles of drinking water daily",
+          "Daily breakfast à la carte at Kemuning Kitchen",
+          "Bicycles and beach towels to borrow",
+          "Wi-Fi throughout the property",
+          "Service charge and taxes included"
+        ]
+      },
+      {
+        "title": "Bungalow upgrade, per night",
+        "items": [
+          "Loft Bungalow: add IDR 300,000",
+          "Beach Bungalow: add IDR 550,000",
+          "Courtyard Suite: add IDR 1,400,000"
+        ]
+      }
+    ],
+    "bookingUrl": "mailto:reservations@kemuning-sanur.example?subject=Slow%20Stay%20enquiry",
+    "bookingLabel": "Book the Slow Stay"
+  },
+  {
+    "slug": "stay-and-dine",
+    "title": "Stay & Dine",
+    "heroImage": "/site/stock/food-3.webp",
+    "duration": "4 days / 3 nights in a Garden Bungalow",
+    "priceLabel": "From",
+    "price": "IDR 7,800,000",
+    "note": "",
+    "heading": "For travellers who plan the trip around dinner: a stay with a tasting table for two.",
+    "description": [],
+    "smallImage": "/site/stock/dinner-3.webp",
+    "bigImage": "/site/stock/breakfast-3.webp",
+    "inclusions": [
+      {
+        "title": "Package inclusions",
+        "items": [
+          "Three nights in a Garden Bungalow",
+          "Return airport transfer",
+          "One Indonesian tasting table for two at Kemuning Kitchen",
+          "Cold towel and welcome drink on arrival",
+          "Two bottles of drinking water daily",
+          "Daily breakfast à la carte",
+          "Bicycles and beach towels to borrow",
+          "Service charge and taxes included"
+        ]
+      },
+      {
+        "title": "Bungalow upgrade, per night",
+        "items": [
+          "Loft Bungalow: add IDR 300,000",
+          "Beach Bungalow: add IDR 550,000",
+          "Courtyard Suite: add IDR 1,400,000"
+        ]
+      }
+    ],
+    "bookingUrl": "mailto:reservations@kemuning-sanur.example?subject=Stay%20and%20Dine%20enquiry",
+    "bookingLabel": "Book Stay & Dine"
+  }
+]
